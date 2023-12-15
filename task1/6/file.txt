@@ -1,6 +1,0 @@
-a 2
-aa 2
-abC 1
-abc 1
-ac 1
-bcd 1
